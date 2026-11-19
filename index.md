@@ -28,4 +28,4 @@ We do not sell or share data, because we hold none. Ad traffic uses encrypted co
 We may update this policy; the date above will change.
 
 ## Contact
-Open an issue at https://github.com/macbeth76/possum-run-privacy/issues or email the developer address listed on the Google Play page.
+Open an issue at https://github.com/wiseowltechnet/possum-run-privacy/issues or email the developer address listed on the Google Play page.
