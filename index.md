@@ -4,9 +4,9 @@ title: Possum Run Privacy Policy
 
 # Possum Run: Privacy Policy
 
-_Last updated: 3 November 2026_
+_Last updated: 18 November 2026_
 
-Possum Run ("the app") is a free game by macbeth76 ("we"). This policy explains what happens to your data.
+Possum Run ("the app") is a free game by Wise Owl Tech ("we"). This policy explains what happens to your data.
 
 ## What we collect
 **We do not collect, store or receive any personal data.** There are no accounts, no analytics and no servers operated by us. Your high score, lifetime grubs and progress are saved only on your device and never leave it. Uninstalling the app deletes them.
